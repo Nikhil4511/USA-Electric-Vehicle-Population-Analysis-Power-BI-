@@ -1,5 +1,7 @@
 # USA-Electric-Vehicle-Population-Analysis-Power-BI-
 
+## “Dataset was split into three parts due to GitHub file size limitations.”
+
 ## 📌 Project Overview
 
 This project is a Power BI dashboard built on the Electric Vehicle Population dataset of the United States.
